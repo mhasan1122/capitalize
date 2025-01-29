@@ -7,7 +7,7 @@ export function CTASection() {
         <h2 className="text-3xl font-bold mb-6">Let's Get Your Business Funded.</h2>
         <p className="mb-8 max-w-2xl mx-auto">
           Need a consultation? Time to get the funding your business needs. Capitalized can help your goals become a
-          reality. Best of all, every takes a few minutes to get started.
+          reality. Best of all, every&apos;s takes a few minutes to get started.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4 items-center">
           <Link
